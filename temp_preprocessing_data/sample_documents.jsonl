@@ -1,0 +1,10 @@
+{"text": "Machine learning is a subset of artificial intelligence that enables computers to learn and make decisions from data without being explicitly programmed. It has applications in image recognition, natural language processing, and predictive analytics.", "source": "ml_article_1", "domain": "technology"}
+{"text": "The quick brown fox jumps over the lazy dog. This is a common pangram used for typing practice.", "source": "example_1", "domain": "general"}
+{"text": "Deep learning neural networks have revolutionized computer vision tasks. Convolutional neural networks can extract hierarchical features from images, enabling breakthrough performance in object detection and image classification.", "source": "dl_article_1", "domain": "technology"}
+{"text": "lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor", "source": "filler_1", "domain": "placeholder"}
+{"text": "Natural language processing involves the interaction between computers and human language. Modern NLP systems use transformer architectures to understand context and generate human-like text responses.", "source": "nlp_article_1", "domain": "technology"}
+{"text": "The weather today is sunny with a temperature of 75 degrees Fahrenheit. Perfect for outdoor activities and spending time in the park.", "source": "weather_1", "domain": "general"}
+{"text": "Quantum computing leverages quantum mechanical phenomena to process information in fundamentally different ways than classical computers. Quantum bits or qubits can exist in superposition states.", "source": "quantum_1", "domain": "technology"}
+{"text": "The quick brown fox jumps over the lazy dog. This is a common pangram used for typing practice.", "source": "example_2", "domain": "general"}
+{"text": "Data science combines statistics, programming, and domain expertise to extract insights from large datasets. It involves data collection, cleaning, analysis, and visualization.", "source": "ds_article_1", "domain": "technology"}
+{"text": "a b c d e f g h i j k l m n o p q r s t u v w x y z", "source": "alphabet_1", "domain": "test"}

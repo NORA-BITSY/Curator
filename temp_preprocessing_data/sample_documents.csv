@@ -1,0 +1,11 @@
+text,source,domain
+"Machine learning is a subset of artificial intelligence that enables computers to learn and make decisions from data without being explicitly programmed. It has applications in image recognition, natural language processing, and predictive analytics.",ml_article_1,technology
+The quick brown fox jumps over the lazy dog. This is a common pangram used for typing practice.,example_1,general
+"Deep learning neural networks have revolutionized computer vision tasks. Convolutional neural networks can extract hierarchical features from images, enabling breakthrough performance in object detection and image classification.",dl_article_1,technology
+lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor,filler_1,placeholder
+Natural language processing involves the interaction between computers and human language. Modern NLP systems use transformer architectures to understand context and generate human-like text responses.,nlp_article_1,technology
+The weather today is sunny with a temperature of 75 degrees Fahrenheit. Perfect for outdoor activities and spending time in the park.,weather_1,general
+Quantum computing leverages quantum mechanical phenomena to process information in fundamentally different ways than classical computers. Quantum bits or qubits can exist in superposition states.,quantum_1,technology
+The quick brown fox jumps over the lazy dog. This is a common pangram used for typing practice.,example_2,general
+"Data science combines statistics, programming, and domain expertise to extract insights from large datasets. It involves data collection, cleaning, analysis, and visualization.",ds_article_1,technology
+a b c d e f g h i j k l m n o p q r s t u v w x y z,alphabet_1,test
